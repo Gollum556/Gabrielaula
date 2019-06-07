@@ -10,7 +10,7 @@ package javaapplication1;
  * @author GC-Aula
  */
 public class JavaApplication1 {
-Gabriel de Paula
+Gabriel de Paula 2
     /**
      * @param args the command line arguments
      */
